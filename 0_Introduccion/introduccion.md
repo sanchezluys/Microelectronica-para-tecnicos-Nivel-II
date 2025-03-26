@@ -4,30 +4,33 @@
 
 ---
 
-#### 🎯 Objetivos
+#### 🎯 Objetivos Generales del Curso
 
 <p class="fragment" data-fragment-index="1" style="text-align: left;">
-  1. <strong>🗄️ Bases de datos Relacionales</strong>: Comprender la estructura de datos en tablas relacionadas.
+  1. <strong>🛡️ Desarmado Seguro Avanzado</strong>: Aprender técnicas avanzadas para el desarmado seguro de equipos electrónicos, minimizando riesgos y maximizando la eficiencia.
 </p>
 <p class="fragment" data-fragment-index="2" style="text-align: left;">
-  2. <strong>📊 Tablas</strong>: Crear y gestionar tablas de forma eficiente.
+  2. <strong>🗺️ Esquemas e Interpretación</strong>: Desarrollar habilidades sólidas en el levantamiento, la interpretación y la creación de esquemas electrónicos.
 </p>
 <p class="fragment" data-fragment-index="3" style="text-align: left;">
-  3. <strong>🔗 Relaciones entre tablas</strong>: Establecer relaciones mediante claves primarias y foráneas.
+  3. <strong>🥶 Mediciones en Frío para Diagnóstico</strong>: Dominar las técnicas de medición en frío para diagnosticar fallas en componentes y circuitos electrónicos.
 </p>
 <p class="fragment" data-fragment-index="4" style="text-align: left;">
-  4. <strong>🛠️ CRUD</strong>: Realizar operaciones básicas (Crear, Leer, Actualizar, Eliminar) en las tablas.
+  4. <strong>🔥 Mediciones en Caliente Seguras</strong>: Realizar mediciones en caliente de manera segura y efectiva, utilizando el equipo adecuado y siguiendo los protocolos de seguridad.
 </p>
 <p class="fragment" data-fragment-index="5" style="text-align: left;">
-  5. <strong>🔍 Consultas SQL</strong>: Ejecutar consultas para recuperar y manipular datos.
+  5. <strong>📚 Planos y Esquemáticos Técnicos</strong>: Interpretar y utilizar planos y esquemáticos técnicos para la reparación y el mantenimiento de equipos electrónicos.
 </p>
 <p class="fragment" data-fragment-index="6" style="text-align: left;">
-  6. <strong>🚀 Publicar en GitHub</strong>: Desarrollar y publicar una base de datos en GitHub.
+  6. <strong>📝 Documentación Profesional</strong>: Documentar adecuadamente los procesos de diagnóstico, reparación y modificación de equipos electrónicos.
+</p>
+<p class="fragment" data-fragment-index="7" style="text-align: left;">
+  7. <strong>🖐️ Buenas Prácticas en Componentes</strong>: Aplicar buenas prácticas en la manipulación, el almacenamiento y el uso de componentes electrónicos.
 </p>
 
 ---
 
-#### ⏳ Meta Final Proyecto en GitHub
+#### ⏳ Metas Publicar cada caso en GitHub
 
 <img src="0_Introduccion/git.webp" alt="git"	style="height: 600px; margin: 0 auto 4rem auto; background: transparent; box-shadow: 0 0 10px 10px rgb(150, 156, 238); border-radius: 20px;" class="demo-logo">
 
