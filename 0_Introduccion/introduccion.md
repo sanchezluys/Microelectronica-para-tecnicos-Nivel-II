@@ -35,7 +35,7 @@
 
 ---
 
-#### ⏳ Metas Publicar cada caso en GitHub
+#### ⏳ Publicar cada caso en GitHub
 
 <img src="0_Introduccion/git.webp" alt="git"	style="height: 600px; margin: 0 auto 4rem auto; background: transparent; box-shadow: 0 0 10px 10px rgb(150, 156, 238); border-radius: 20px;" class="demo-logo">
 
@@ -64,15 +64,55 @@
 
 ===
 
-#### 🚀 Introducción a un Proyecto Desarrollo IT
+#### 🚀 Material de Apoyo
 
-<img src="0_Introduccion/proyecto_1.jpg" alt="vista 1"	style="height: 600px; margin: 0 auto 4rem auto; background: transparent; box-shadow: 0 0 10px 10px rgb(150, 156, 238); border-radius: 20px;" class="demo-logo">
+<img src="0_Introduccion/herramientas-maker-1.jpg" alt="vista 1"	style="height: 600px; margin: 0 auto 4rem auto; background: transparent; box-shadow: 0 0 10px 10px rgb(150, 156, 238); border-radius: 20px;" class="demo-logo">
 
 ---
 
-#### 🚀 FrontEnd
+#### 🚀 Aplicaciones del Telefono
 
-<img src="0_Introduccion/frontend_1.png" alt="front"	style="height: 600px; margin: 0 auto 4rem auto; background: transparent; box-shadow: 0 0 10px 10px rgb(150, 156, 238); border-radius: 20px;" class="demo-logo">
+<img src="0_Introduccion/unnamed.png" alt="front"	style="height: 600px; margin: 0 auto 4rem auto; background: transparent; box-shadow: 0 0 10px 10px rgb(150, 156, 238); border-radius: 20px;" class="demo-logo">
+
+---
+
+#### 📱 Aplicaciones Android Recomendadas para Electrónica 1/2
+
+<p class="fragment" data-fragment-index="1" style="text-align: left;">
+  1. <strong>Electrodoc Pro</strong>: Una completa referencia con información sobre códigos de colores de resistencias, cálculos de ley de Ohm, pines de conectores, tablas de conversión y mucho más. Ideal para tener a mano información esencial.
+  <br>
+  <a href="https://play.google.com/store/apps/details?id=com.soft.electrodocpro" target="_blank">Enlace a Google Play</a>
+  <br>
+  <img src="img/electrodoc.png" alt="Electrodoc Pro" width="200">
+</p>
+
+<p class="fragment" data-fragment-index="2" style="text-align: left;">
+  2. <strong>EveryCircuit</strong>: Un simulador de circuitos interactivo que permite diseñar, simular y analizar circuitos analógicos y digitales. Ofrece una visualización intuitiva del comportamiento de los circuitos.
+    <br>
+  <a href="https://play.google.com/store/apps/details?id=com.everycircuit" target="_blank">Enlace a Google Play</a>
+    <br>
+  <img src="img/everycircuit.png" alt="EveryCircuit" width="200">
+</p>
+
+---
+
+#### 📱 Aplicaciones Android Recomendadas para Electrónica 2/2
+
+<p class="fragment" data-fragment-index="3" style="text-align: left;">
+  3. <strong>Electrical Engineering Dictionary</strong>: Un diccionario técnico con miles de términos y definiciones relacionados con la ingeniería eléctrica y electrónica. Útil para comprender la terminología técnica.
+    <br>
+  <a href="https://play.google.com/store/apps/details?id=com.engineeringtool.electricaldictionary" target="_blank">Enlace a Google Play</a>
+    <br>
+  <img src="img/electrical_dictionary.png" alt="Electrical Engineering Dictionary" width="200">
+</p>
+
+<p class="fragment" data-fragment-index="4" style="text-align: left;">
+  4. <strong>iCircuit</strong>: Otro simulador de circuitos intuitivo y fácil de usar, con una amplia gama de componentes y capacidades de simulación. Permite construir y probar circuitos rápidamente.
+    <br>
+  <a href="https://play.google.com/store/apps/details?id=com.krackhardt.icircuit" target="_blank">Enlace a Google Play</a>
+      <br>
+  <img src="img/icircuit.png" alt="iCircuit" width="200">
+</p>
 
 ---
 
