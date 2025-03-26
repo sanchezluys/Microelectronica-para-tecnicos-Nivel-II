@@ -1,6 +1,6 @@
 #### 🌐 Introducción
 
-<img src="0_Introduccion/reparaciones-electronicas.webp" alt="meet"	style="height: 600px; margin: 0 auto 4rem auto; background: transparent; box-shadow: 0 0 10px 10px rgb(150, 156, 238); border-radius: 20px;">
+<img src="0_Introduccion/meet_1.png" alt="meet"	style="height: 600px; margin: 0 auto 4rem auto; background: transparent; box-shadow: 0 0 10px 10px rgb(150, 156, 238); border-radius: 20px;">
 
 ---
 
