@@ -41,31 +41,25 @@
 
 ---
 
-#### 🛠️ Requisitos
+#### ⚙️ Requisitos Recomendados
 
 <p class="fragment" data-fragment-index="1" style="text-align: left;">
-  1. <strong>💻 Computadora</strong>: Un equipo adecuado para desarrollar y gestionar bases de datos.
+  1. <strong>🎓 Conocimientos Básicos de Electrónica</strong>: Familiaridad con conceptos básicos como voltaje, corriente, resistencia, ley de Ohm y componentes electrónicos básicos (resistencias, capacitores, diodos, transistores).
 </p>
 <p class="fragment" data-fragment-index="2" style="text-align: left;">
-  2. <strong>🌐 Conexión a Internet</strong>: Esencial para colaborar, acceder a recursos y gestionar proyectos en la nube.
+  2. <strong>🧰 Manejo de Herramientas Básicas</strong>: Experiencia básica en el uso de herramientas manuales como destornilladores, pinzas y alicates.
 </p>
 <p class="fragment" data-fragment-index="3" style="text-align: left;">
-  3. <strong>☁️ Servidor con MySQL en la nube</strong>: Un entorno de base de datos accesible y escalable para alojar proyectos.
+  3. <strong>📏 Uso del Multímetro</strong>: Haber utilizado un multímetro para realizar mediciones básicas (voltaje, corriente, resistencia, continuidad).
 </p>
 <p class="fragment" data-fragment-index="4" style="text-align: left;">
-  4. <strong>💻 MySQL Workbench</strong>: Herramienta para diseñar, modelar y gestionar bases de datos.
+  4. <strong>💻 Conocimientos de Informática</strong>: Habilidades básicas de informática, incluyendo el uso de un sistema operativo, la navegación por internet y la instalación de software.
 </p>
 <p class="fragment" data-fragment-index="5" style="text-align: left;">
-  5. <strong>🌐 GitHub</strong>: Plataforma para compartir, colaborar y versionar proyectos.
+  5. <strong>🤓 Disposición para Aprender</strong>: Una actitud proactiva y una fuerte disposición para aprender y practicar nuevas habilidades.
 </p>
 <p class="fragment" data-fragment-index="6" style="text-align: left;">
-  6. <strong>🧑‍🤝‍🧑 Trabajo en equipo</strong>: Colaboración activa con otros desarrolladores para mejorar la eficiencia y calidad del proyecto.
-</p>
-<p class="fragment" data-fragment-index="7" style="text-align: left;">
-  7. <strong>⚙️ Metodologías ágiles</strong>: Uso de enfoques como Scrum o Kanban para gestionar el desarrollo de manera eficiente.
-</p>
-<p class="fragment" data-fragment-index="8" style="text-align: left;">
-  8. <strong>📚 Ganas de aprender</strong>: Actitud proactiva para adquirir nuevos conocimientos y mejorar continuamente.
+  6. <strong>⚠️ Precaución y Seguridad</strong>: Conciencia de la importancia de la seguridad al trabajar con equipos electrónicos.
 </p>
 
 ===
