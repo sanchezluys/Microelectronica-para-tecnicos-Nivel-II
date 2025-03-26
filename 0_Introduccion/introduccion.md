@@ -83,7 +83,7 @@
   <br>
   <a href="https://play.google.com/store/apps/details?id=it.android.demi.elettronica" target="_blank">Enlace a Google Play</a>
   <br>
-  <img src="i0_Introduccion/electrodoc.png" alt="Electrodoc Pro" width="200">
+  <img src="0_Introduccion/electrodoc.png" alt="Electrodoc Pro" width="200">
 </p>
 
 <p class="fragment" data-fragment-index="2" style="text-align: left;">
@@ -91,7 +91,7 @@
     <br>
   <a href="https://play.google.com/store/apps/details?id=com.everycircuit.free" target="_blank">Enlace a Google Play</a>
     <br>
-  <img src="img/everycircuit.png" alt="EveryCircuit" width="200">
+  <img src="0_Introduccion/everycircuit.png" alt="EveryCircuit" width="200">
 </p>
 
 ---
