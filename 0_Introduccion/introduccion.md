@@ -81,15 +81,15 @@
 <p class="fragment" data-fragment-index="1" style="text-align: left;">
   1. <strong>Electrodoc Pro</strong>: Una completa referencia con información sobre códigos de colores de resistencias, cálculos de ley de Ohm, pines de conectores, tablas de conversión y mucho más. Ideal para tener a mano información esencial.
   <br>
-  <a href="https://play.google.com/store/apps/details?id=com.soft.electrodocpro" target="_blank">Enlace a Google Play</a>
+  <a href="https://play.google.com/store/apps/details?id=it.android.demi.elettronica" target="_blank">Enlace a Google Play</a>
   <br>
-  <img src="img/electrodoc.png" alt="Electrodoc Pro" width="200">
+  <img src="i0_Introduccion/electrodoc.png" alt="Electrodoc Pro" width="200">
 </p>
 
 <p class="fragment" data-fragment-index="2" style="text-align: left;">
   2. <strong>EveryCircuit</strong>: Un simulador de circuitos interactivo que permite diseñar, simular y analizar circuitos analógicos y digitales. Ofrece una visualización intuitiva del comportamiento de los circuitos.
     <br>
-  <a href="https://play.google.com/store/apps/details?id=com.everycircuit" target="_blank">Enlace a Google Play</a>
+  <a href="https://play.google.com/store/apps/details?id=com.everycircuit.free" target="_blank">Enlace a Google Play</a>
     <br>
   <img src="img/everycircuit.png" alt="EveryCircuit" width="200">
 </p>
