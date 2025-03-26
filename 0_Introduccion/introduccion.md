@@ -101,17 +101,17 @@
 <p class="fragment" data-fragment-index="3" style="text-align: left;">
   3. <strong>Electrical Engineering Dictionary</strong>: Un diccionario técnico con miles de términos y definiciones relacionados con la ingeniería eléctrica y electrónica. Útil para comprender la terminología técnica.
     <br>
-  <a href="https://play.google.com/store/apps/details?id=com.engineeringtool.electricaldictionary" target="_blank">Enlace a Google Play</a>
+  <a href="https://play.google.com/store/apps/details?id=com.gpd.electricaldictionary" target="_blank">Enlace a Google Play</a>
     <br>
-  <img src="img/electrical_dictionary.png" alt="Electrical Engineering Dictionary" width="200">
+  <img src="0_Introduccion/electricaldictionary.png" alt="Electrical Engineering Dictionary" width="200">
 </p>
 
 <p class="fragment" data-fragment-index="4" style="text-align: left;">
   4. <strong>iCircuit</strong>: Otro simulador de circuitos intuitivo y fácil de usar, con una amplia gama de componentes y capacidades de simulación. Permite construir y probar circuitos rápidamente.
     <br>
-  <a href="https://play.google.com/store/apps/details?id=com.krackhardt.icircuit" target="_blank">Enlace a Google Play</a>
+  <a href="https://play.google.com/store/apps/details?id=i.circuit" target="_blank">Enlace a Google Play</a>
       <br>
-  <img src="img/icircuit.png" alt="iCircuit" width="200">
+  <img src="0_Introduccion/icircuit.png" alt="iCircuit" width="200">
 </p>
 
 ---
