@@ -4,7 +4,7 @@
 
 ---
 
-#### 🎯 Objetivos Generales del Curso
+#### 🎯 Objetivos 1/2
 
 <p class="fragment" data-fragment-index="1" style="text-align: left;">
   1. <strong>🛡️ Desarmado Seguro Avanzado</strong>: Aprender técnicas avanzadas para el desarmado seguro de equipos electrónicos, minimizando riesgos y maximizando la eficiencia.
@@ -18,14 +18,19 @@
 <p class="fragment" data-fragment-index="4" style="text-align: left;">
   4. <strong>🔥 Mediciones en Caliente Seguras</strong>: Realizar mediciones en caliente de manera segura y efectiva, utilizando el equipo adecuado y siguiendo los protocolos de seguridad.
 </p>
+
+---
+
+#### 🎯 Objetivos 2/2
+
 <p class="fragment" data-fragment-index="5" style="text-align: left;">
-  5. <strong>📚 Planos y Esquemáticos Técnicos</strong>: Interpretar y utilizar planos y esquemáticos técnicos para la reparación y el mantenimiento de equipos electrónicos.
+  1. <strong>📚 Planos y Esquemáticos Técnicos</strong>: Interpretar y utilizar planos y esquemáticos técnicos para la reparación y el mantenimiento de equipos electrónicos.
 </p>
 <p class="fragment" data-fragment-index="6" style="text-align: left;">
-  6. <strong>📝 Documentación Profesional</strong>: Documentar adecuadamente los procesos de diagnóstico, reparación y modificación de equipos electrónicos.
+  1. <strong>📝 Documentación Profesional</strong>: Documentar adecuadamente los procesos de diagnóstico, reparación y modificación de equipos electrónicos.
 </p>
 <p class="fragment" data-fragment-index="7" style="text-align: left;">
-  7. <strong>🖐️ Buenas Prácticas en Componentes</strong>: Aplicar buenas prácticas en la manipulación, el almacenamiento y el uso de componentes electrónicos.
+  1. <strong>🖐️ Buenas Prácticas en Componentes</strong>: Aplicar buenas prácticas en la manipulación, el almacenamiento y el uso de componentes electrónicos.
 </p>
 
 ---
