@@ -116,7 +116,7 @@
 
 ---
 
-#### 📱 Sitios web recomendados para consultas 1/3
+#### 📱 Sitios web recomendados para consultas 1/2
 
 <p class="fragment" data-fragment-index="1" style="text-align: left;">
   1. <strong>Electronics Hub</strong>: Un sitio web con tutoriales, proyectos y guías sobre electrónica y programación. Ideal para aprender y encontrar inspiración para proyectos.
@@ -136,7 +136,7 @@
 
 ---
 
-#### 📱 Sitios web recomendados para consultas 2/3
+#### 📱 Sitios web recomendados para consultas 2/2
 
 <p class="fragment" data-fragment-index="3" style="text-align: left;">
   3. <strong>Worldway Electronics</strong>: Otro distribuidor de componentes electrónicos, con un enfoque en la venta al por mayor y la búsqueda de componentes difíciles de encontrar.
