@@ -182,4 +182,4 @@
 
 Ejemplo de Formulario de Mantenimiento de Equipos Electrónicos:
 
-[Formulario de Mantenimiento](0_Introduccion/formulario_mtto.md)
+[Formulario de Mantenimiento](0_Introduccion/formulario_mtto.pdf)
