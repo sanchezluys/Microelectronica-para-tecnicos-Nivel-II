@@ -180,6 +180,6 @@
   3. <strong>🔄 Mantenimiento Predictivo</strong>: Se basa en el monitoreo del estado del equipo para predecir fallas antes de que ocurran. Utiliza técnicas como análisis de vibraciones y termografía.
 </p>
 
-Ejemplo de Formulario de Mantenimiento de Equipos Electrónicos:
-
-[Formulario de Mantenimiento](0_Introduccion/formulario_mtto.pdf)
+<p class="fragment" data-fragment-index="4" style="text-align: left;">
+  <a href="0_Introduccion/formulario_mtto.pdf" target="_blank">📄 Formulario de Mantenimiento</a>
+</p>
