@@ -24,13 +24,13 @@
 #### 🎯 Objetivos 2/2
 
 <p class="fragment" data-fragment-index="5" style="text-align: left;">
-  1. <strong>📚 Planos y Esquemáticos Técnicos</strong>: Interpretar y utilizar planos y esquemáticos técnicos para la reparación y el mantenimiento de equipos electrónicos.
+  5. <strong>📚 Planos y Esquemáticos Técnicos</strong>: Interpretar y utilizar planos y esquemáticos técnicos para la reparación y el mantenimiento de equipos electrónicos.
 </p>
 <p class="fragment" data-fragment-index="6" style="text-align: left;">
-  1. <strong>📝 Documentación Profesional</strong>: Documentar adecuadamente los procesos de diagnóstico, reparación y modificación de equipos electrónicos.
+  6. <strong>📝 Documentación Profesional</strong>: Documentar adecuadamente los procesos de diagnóstico, reparación y modificación de equipos electrónicos.
 </p>
 <p class="fragment" data-fragment-index="7" style="text-align: left;">
-  1. <strong>🖐️ Buenas Prácticas en Componentes</strong>: Aplicar buenas prácticas en la manipulación, el almacenamiento y el uso de componentes electrónicos.
+  7. <strong>🖐️ Buenas Prácticas en Componentes</strong>: Aplicar buenas prácticas en la manipulación, el almacenamiento y el uso de componentes electrónicos.
 </p>
 
 ---
@@ -112,4 +112,48 @@
   <a href="https://play.google.com/store/apps/details?id=i.circuit" target="_blank">Enlace a Google Play</a>
       <br>
   <img src="0_Introduccion/icircuit.png" alt="iCircuit" width="200">
+</p>
+
+---
+
+#### 📱 Sitios web recomendados para consultas
+
+<p class="fragment" data-fragment-index="1" style="text-align: left;">
+  1. <strong>Electronics Hub</strong>: Un sitio web con tutoriales, proyectos y guías sobre electrónica y programación. Ideal para aprender y encontrar inspiración para proyectos.
+    <br>
+  <a href="https://www.electronicshub.org/" target="_blank">Enlace a Electronics Hub</a>
+    <br>
+  <img src="0_Introduccion/electronicshub.png" alt="Electronics Hub" width="200">
+</p>
+
+<p class="fragment" data-fragment-index="2" style="text-align: left;">
+  2. <strong>Mouser Electronics</strong>: Un distribuidor global de componentes electrónicos con un amplio catálogo y recursos técnicos. Ideal para buscar y comprar componentes.
+    <br>
+  <a href="https://co.mouser.com/" target="_blank">Enlace a Mouser Electronics</a>
+    <br>
+  <img src="0_Introduccion/mouser.png" alt="Mouser Electronics" width="200">
+</p>
+
+<p class="fragment" data-fragment-index="3" style="text-align: left;">
+  3. <strong>Worldway Electronics</strong>: Otro distribuidor de componentes electrónicos, con un enfoque en la venta al por mayor y la búsqueda de componentes difíciles de encontrar.
+    <br>
+  <a href="https://www.worldwayelec.com" target="_blank">Enlace a Worldway Electronics</a>
+  <br>
+  <img src="0_Introduccion/worldway.png" alt="Worldway Electronics" width="200">
+</p>
+
+<p class="fragment" data-fragment-index="4" style="text-align: left;">
+  4. <strong>Octopart</strong>: Un motor de búsqueda de componentes electrónicos que compara precios y disponibilidad de múltiples distribuidores. Ideal para encontrar el mejor precio y disponibilidad.
+    <br>
+  <a href="https://octopart.com" target="_blank">Enlace a Octopart</a>
+  <br>
+  <img src="0_Introduccion/octopart.png" alt="Octopart" width="200">
+</p>
+
+<p class="fragment" data-fragment-index="5" style="text-align: left;">
+  5. <strong>All Datasheet</strong>: Un sitio web con una extensa base de datos de hojas de datos de componentes electrónicos. Ideal para encontrar información técnica detallada sobre componentes específicos.
+    <br>
+  <a href="https://www.alldatasheet.com" target="_blank">Enlace a All Datasheet</a>
+  <br>
+  <img src="0_Introduccion/alldatasheet.png" alt="All Datasheet" width="200">
 </p>
