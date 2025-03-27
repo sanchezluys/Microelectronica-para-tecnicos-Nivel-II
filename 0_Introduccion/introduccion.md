@@ -179,3 +179,4 @@
 <p class="fragment" data-fragment-index="3" style="text-align: left;">
   3. <strong>🔄 Mantenimiento Predictivo</strong>: Se basa en el monitoreo del estado del equipo para predecir fallas antes de que ocurran. Utiliza técnicas como análisis de vibraciones y termografía.
 </p>
+
