@@ -116,14 +116,14 @@
 
 ---
 
-#### 📱 Sitios web recomendados para consultas
+#### 📱 Sitios web recomendados para consultas 1/3
 
 <p class="fragment" data-fragment-index="1" style="text-align: left;">
   1. <strong>Electronics Hub</strong>: Un sitio web con tutoriales, proyectos y guías sobre electrónica y programación. Ideal para aprender y encontrar inspiración para proyectos.
     <br>
   <a href="https://www.electronicshub.org/" target="_blank">Enlace a Electronics Hub</a>
     <br>
-  <img src="0_Introduccion/electronicshub.png" alt="Electronics Hub" width="200">
+  <img src="0_Introduccion/elect-hub.webp" alt="Electronics Hub" width="200">
 </p>
 
 <p class="fragment" data-fragment-index="2" style="text-align: left;">
@@ -131,8 +131,12 @@
     <br>
   <a href="https://co.mouser.com/" target="_blank">Enlace a Mouser Electronics</a>
     <br>
-  <img src="0_Introduccion/mouser.png" alt="Mouser Electronics" width="200">
+  <img src="0_Introduccion/mouser.webp" alt="Mouser Electronics" width="200">
 </p>
+
+---
+
+#### 📱 Sitios web recomendados para consultas 2/3
 
 <p class="fragment" data-fragment-index="3" style="text-align: left;">
   3. <strong>Worldway Electronics</strong>: Otro distribuidor de componentes electrónicos, con un enfoque en la venta al por mayor y la búsqueda de componentes difíciles de encontrar.
