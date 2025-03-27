@@ -161,3 +161,21 @@
   <br>
   <img src="0_Introduccion/alldatasheet.png" alt="All Datasheet" width="200">
 </p>
+
+---
+
+#### 📱 Tipos de Mantenimiento, Clase Mundial
+
+<img src="0_Introduccion/mantenimientos.png" alt="Tipos de Mantenimientos" width="200">
+
+<p class="fragment" data-fragment-index="1" style="text-align: left;">
+  1. <strong>🔧 Mantenimiento Correctivo</strong>: Se realiza para reparar fallas o averías en el equipo. Implica identificar y solucionar problemas existentes.
+</p>
+
+<p class="fragment" data-fragment-index="2" style="text-align: left;">
+  2. <strong>🔍 Mantenimiento Preventivo</strong>: Se lleva a cabo para prevenir fallas futuras. Incluye tareas como limpieza, lubricación y revisión de componentes.
+</p>
+
+<p class="fragment" data-fragment-index="3" style="text-align: left;">
+  3. <strong>🔄 Mantenimiento Predictivo</strong>: Se basa en el monitoreo del estado del equipo para predecir fallas antes de que ocurran. Utiliza técnicas como análisis de vibraciones y termografía.
+</p>
