@@ -134,6 +134,28 @@
   <img src="0_Introduccion/mouser.webp" alt="Mouser Electronics" width="200">
 </p>
 
+- apk recomendadas
+- smd info
+
+## portatiles, fuentes
+
+- atmicro database, https://play.google.com/store/apps/details?id=it.demi.elettronica.db.avr&hl=es_419
+
+https://play.google.com/store/apps/details?id=br.com.soterotech.mscope&hl=es_CO
+
+ordenes de trabajo:
+- https://play.google.com/store/apps/details?id=com.enlazasiv.albaranes&hl=es_CO
+
+aliexpress, https://play.google.com/store/apps/details?id=com.aliexpress.app&hl=es_CO
+
+- protos, https://play.google.com/store/apps/details?id=com.protos&hl=es_CO
+
+- thinkercad, https://play.google.com/store/apps/details?id=com.autodesk.tinkercad&hl=es_CO
+- https://play.google.com/store/apps/details?id=com.tinkercad.www.twa&hl=es_CO
+
+- lupas, https://play.google.com/store/apps/details?id=com.lupas&hl=es_CO
+
+
 ---
 
 #### 📱 Sitios web recomendados para consultas 2/2
@@ -161,6 +183,16 @@
   <br>
   <img src="0_Introduccion/alldatasheet.png" alt="All Datasheet" width="200">
 </p>
+
+- sitios recomendados
+
+- de juegos de azar
+- https://alfastreet.si/es/
+- https://www.igt.com/
+
+https://www.pcbway.com
+
+https://jlcpcb.com
 
 ---
 
