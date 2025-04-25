@@ -20,10 +20,6 @@
   https://www.electrogenios.com/all-boardview/
 </p>
 
-<p class="fragment" data-fragment-index="2" style="text-align: left;">
+<p class="fragment" data-fragment-index="3" style="text-align: left;">
   https://drive.google.com/drive/folders/18CfCmN5p8KtTx73WRxzd8vGPCsJT1iuC
 </p>
-
-
-
-
