@@ -7,3 +7,7 @@ Flexbv is a software tool for visualizing and analyzing PCB designs. It is parti
 
 1. https://pldaniels.com/flexbv5/
 
+## Manual
+
+1. https://pldaniels.com/flexbv5/manual/flexbv-manual.html
+2. 
