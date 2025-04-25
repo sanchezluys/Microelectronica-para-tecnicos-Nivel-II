@@ -5,21 +5,21 @@
 </p>
 
 <p class="fragment" data-fragment-index="2" style="text-align: left;">
-  Sitio web descargas: http://boardviewer.net/index
+  Sitio web descargas: [link descarga](http://boardviewer.net/index)
 </p>
 
 ---
 
-#### 💡 Archivos y Esquematicos
+#### 💡 Archivos y Esquemáticos
 
 <p class="fragment" data-fragment-index="1" style="text-align: left;">
-    https://www.electrogenios.com/esquemas-y-diagramas-gratis-de-asus/
+    [esquemas Asus](https://www.electrogenios.com/esquemas-y-diagramas-gratis-de-asus/)
 </p>
 
 <p class="fragment" data-fragment-index="2" style="text-align: left;">
-  https://www.electrogenios.com/all-boardview/
+  [visitar descargas pagas](https://www.electrogenios.com/all-boardview/)
 </p>
 
 <p class="fragment" data-fragment-index="3" style="text-align: left;">
-  https://drive.google.com/drive/folders/18CfCmN5p8KtTx73WRxzd8vGPCsJT1iuC
+  [descargas variadas](https://drive.google.com/drive/folders/18CfCmN5p8KtTx73WRxzd8vGPCsJT1iuC)
 </p>
