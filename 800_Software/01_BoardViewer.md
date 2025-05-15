@@ -13,3 +13,11 @@ Sitio web descargas: link descarga: http://boardviewer.net/index
 2. Visitar descargas pagas: https://www.electrogenios.com/all-boardview/
 
 3. Descargas variadas: https://drive.google.com/drive/folders/18CfCmN5p8KtTx73WRxzd8vGPCsJT1iuC
+
+4. https://github.com/OpenBoardView/OpenBoardView/releases
+5. https://github.com/bentomo/nanoWii
+6. https://es.ifixit.com/Gu%C3%ADa/Reemplazo+del+Panel+Inferior+de+la+Nintendo+Wii/3462
+7. https://bitbuilt-net.translate.goog/forums/index.php?threads/wii-motherboard-anatomy-101.1286/&_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
+8. https://balika011.hu/switch/erista/
+9. https://drive.google.com/drive/u/1/folders/1OXO7DbP_UcsxUUFN1jJfJYDtugAJ6Wzc
+10. https://www.altium365.com/viewer/es/

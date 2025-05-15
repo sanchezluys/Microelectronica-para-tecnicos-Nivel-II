@@ -111,6 +111,7 @@
 </p>
 <p class="fragment" data-fragment-index="3" style="text-align: left;">
   <strong>Inspección visual</strong>: Buscar componentes dañados, soldaduras frías.
+  
 </p>
 <p class="fragment" data-fragment-index="4" style="text-align: left;">
   <strong>Almacenamiento</strong>: Bolsas antiestáticas, cajas protectoras.

@@ -146,3 +146,15 @@
 <p class="fragment" data-fragment-index="5" style="text-align: left;">
   <strong>Documentación</strong>: Registrar las mediciones, análisis y conclusiones.
 </p>
+
+---
+
+#### 📚 Recursos Adicionales
+
+[Muchos board views](https://drive.google.com/drive/folders/1M_j_lz2-ifYToXtVlbA4ZVcki-gZwPkG)
+
+[Control de wii](https://hartgeloetet.blogspot.com/2014/04/innenansichten-wii-controller-original.html)
+
+[LCD Voltajes](https://www.facebook.com/groups/288921828195567/posts/2145538829200515/)
+
+[TV Leds](https://serviceelectronics.home.blog/2019/04/13/televisores-led/)
